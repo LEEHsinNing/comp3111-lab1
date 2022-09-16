@@ -1,3 +1,3 @@
-Lee Hsin Ning
-20737099
+Name: Lee Hsin Ning
+ID: 20737099
 ![Alt text](./GitHistory.png?raw=True "GitHistory")
